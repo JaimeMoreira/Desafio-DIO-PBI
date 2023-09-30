@@ -32,18 +32,18 @@ Pensando em manter uma estrutura definida e que agregasse valor na experiência 
 <div align="center">
 <img src="https://github.com/JaimeMoreira/Desafio-DIO-PBI/assets/127636282/bdcc609d-5489-4753-877e-a9dadfcf1c57" alt="Primeira página"><BR></div>
 
-<p align="center"><font size="5"><B>Segunda Página</B></p>
+### <p align="center"><font size="5"><B>Segunda Página</B></p>
 
 <div align="center">
 <img src="https://github.com/JaimeMoreira/Desafio-DIO-PBI/assets/127636282/477496ab-fc3a-4ab8-8be8-3cbe3acc7287" alt="Segunda página"><BR></div>
 
-<p align="center"><font size="5"><B>Dicas de Relatório</B></p>
+### <p align="center"><font size="5"><B>Dicas de Relatório</B></p>
 
 <div align="center">
 <img src="https://github.com/JaimeMoreira/Desafio-DIO-PBI/assets/127636282/f7fbce37-f031-4e94-994d-bf68c3cc50b0" alt="Dicas de Relatório" >
 <BR></div>
 
-<p align="center"><font size="5"><B>Mudança de Visuais</B></p>
+### <p align="center"><font size="5"><B>Mudança de Visuais</B></p>
 
 <div align="center">
 <img src="https://github.com/JaimeMoreira/Desafio-DIO-PBI/assets/127636282/5894392e-762a-4bce-a00a-0b355ef13375" alt="Troca de visuais através de botões na página" >
