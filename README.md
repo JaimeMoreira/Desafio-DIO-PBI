@@ -4,7 +4,7 @@
 <img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" alt="Logo Bootcamp" width="220">
 </div>
 
-##  :brain: Desafio de projeto DIO: Criando um relatório de vendas elegantes com Power BI
+##  :brain: Desafio de projeto DIO: Criando um relatório de vendas elegante com Power BI
 Projeto base original desenvolvido por Juliana Mascarenhas  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/julianazanelatto/power_bi_analyst/tree/main/M%C3%B3dulo%202)
 </a>
 
