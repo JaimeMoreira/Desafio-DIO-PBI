@@ -11,7 +11,7 @@ Projeto base original desenvolvido por Juliana Mascarenhas  [![GitHub](https://i
 ## :rocket: Entendendo o desafio
 Inspirado pelo projeto modelo, o aluno deveria replicar ou reimaginar um Relatório feito no Power BI respeitando alguns critérios:<br>
 <OL>
-  <LI> A base deveria ser a "Sample Finances" disponibilizada gratuitamente pelo próprio Power BI.
+  <LI> A base deveria ser a "Sample Financials" disponibilizada gratuitamente pelo próprio Power BI.
   <LI> O relatório deveria conter a segunda página.
   <LI> Utilizar os segmentadores, botões de navegabilidade e Visuais que compõe o relatório de exemplo.
   <LI> Manter uma estrutura bem definida.
