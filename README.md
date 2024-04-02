@@ -18,7 +18,7 @@ Inspirado pelo projeto modelo, o aluno deveria replicar ou reimaginar um Relató
 </OL>
 
 ## :bar_chart: Meu Relatório  :chart_with_upwards_trend:
-Pensando em manter uma estrutura definida e que agregasse valor na experiência do usuário, o layout do relatório foi todo pensado em manter a identidade visual do bootcamp, respeitando as cores em todo o relatório. No modelo de exemplo apresentado pela expert Juliana, tinhamos uma "mistura" nos visuais do texto em inglês com português, fiz a correção e mantive tudo em português. Nesse relatório utilizei também técnias mais avançadas como a criação de uma tabela "dcalendário" e dois Tooltips (dicas de ferramentas) para enriquecer ainda mais o relatório. Por fim, criei uma capa para o relatório com dois botões que direcionam para página 1 ou página 2.
+Pensando em manter uma estrutura definida e que agregasse valor na experiência do usuário, o layout do relatório foi todo pensado em manter a identidade visual do bootcamp, respeitando as cores em todo o relatório. No modelo de exemplo apresentado pela expert Juliana, tinhamos uma "mistura" nos visuais do texto em inglês com português, fiz a correção e mantive tudo em português. Nesse relatório utilizei também técnicas mais avançadas como a criação de uma tabela "dcalendário" e dois Tooltips (dicas de ferramentas) para enriquecer ainda mais o relatório. Por fim, criei uma capa para o relatório com dois botões que direcionam para página 1 ou página 2.
 
 ## :camera_flash: Capturas do Relatório
 
